@@ -1,0 +1,29 @@
+body {
+  padding-left: 30px;
+  background-color:  #ffb3ff;
+  font: 15px "Times New Roman", Times, serif;
+}
+
+h1 {
+  font: 80px;
+  font-family:"Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#choices {
+  padding-left: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#intro  {
+  padding: 50px;
+  background-color: #b300b3;
+}
+
+#comments {
+  
+}
